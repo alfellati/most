@@ -8,7 +8,7 @@
         "watch": "gulp default"
     },
     "dependencies": {
-        "@openzeppelin/contracts": "=5.0.0",
+        "@openzeppelin/contracts": "5.0.1",
         "@openzeppelin/contracts-upgradeable": "=5.0.0"
     },
     "devDependencies": {
