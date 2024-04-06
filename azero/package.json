@@ -16,7 +16,7 @@
         "@typescript-eslint/parser": "^4.8.2",
         "@polkadot/api": "^10.9.1",
         "@polkadot/api-contract": "^10.9.1",
-        "eslint": "^7.26.0",
+        "eslint": "^9.0.0",
         "eslint-config-prettier": "^8.6.0",
         "eslint-plugin-import": "^2.22.1",
         "eslint-plugin-node": "^11.1.0",
