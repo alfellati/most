@@ -1,4 +1,4 @@
-FROM ubuntu:jammy-20231211.1
+FROM ubuntu:jammy-20240416
 
 RUN apt update && \
     apt install ca-certificates -y && \
